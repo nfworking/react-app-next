@@ -32,7 +32,7 @@ export const LogoTicker = () => {
          before:top-0 after:top-0  after:bg-[linear-gradient(to_left,#000,rgb(0,0,0,0))] ">
           <motion.div
           transition={{
-            duration: 20,
+            duration: 2,
             ease: "linear",
             repeat: Infinity,
           }}
